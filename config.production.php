@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://blog.openablion.com',
+    'baseUrl' => 'https://blog.openalbion.com',
     'production' => true,
 ];
