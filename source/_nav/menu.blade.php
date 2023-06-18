@@ -4,10 +4,10 @@
         Blog
     </a>
 
-    <a title="{{ $page->siteName }} About" href="/about"
+    {{-- <a title="{{ $page->siteName }} About" href="/about"
         class="ml-6 text-gray-700 hover:text-red-600 {{ $page->isActive('/about') ? 'active text-red-600' : '' }}">
         About
-    </a>
+    </a> --}}
 
     {{-- <a title="{{ $page->siteName }} Contact" href="/contact"
         class="ml-6 text-gray-700 hover:text-red-600 {{ $page->isActive('/contact') ? 'active text-red-600' : '' }}">

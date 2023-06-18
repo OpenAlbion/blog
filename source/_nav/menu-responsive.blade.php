@@ -7,13 +7,13 @@
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
             >Blog</a>
         </li>
-        <li class="pl-4">
+        {{-- <li class="pl-4">
             <a
                 title="{{ $page->siteName }} About"
                 href="/about"
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
             >About</a>
-        </li>
+        </li> --}}
         {{-- <li class="pl-4">
             <a
                 title="{{ $page->siteName }} Contact"
