@@ -1,0 +1,13 @@
+/* Your custom blog styles here */
+@font-face {
+    font-family: 'Wa Lone';
+    src: url('https://res.cloudinary.com/pyaesoneaung/raw/upload/v1661660291/Z06-Walone_Regular.ttf');
+}
+
+body {
+    font-family: 'Wa Lone', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+p {
+	line-height: 2rem !important;
+}
