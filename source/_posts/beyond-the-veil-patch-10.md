@@ -4,7 +4,7 @@ section: content
 title: Beyond the Veil Patch 10
 date: 2023-06-18
 description: Mist ထဲက Knightfall Abbey မှာ mob တွေသတ်ရင်ရတဲ့ silver ကိုလျှော့ထားပြီးတော့ဖွင့်တဲ့ chest တွေမှာ loot တွေကို 22.2% အထိတိုးပေးထားပါတယ်။
-featured: fakse
+featured: false
 categories: [patch]
 author: Thurain Bo Win
 ---
