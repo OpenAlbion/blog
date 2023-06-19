@@ -7,19 +7,19 @@
                 class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
             >Blog</a>
         </li>
-        {{-- <li class="pl-4">
+        <li class="pl-4">
             <a
-                title="{{ $page->siteName }} About"
-                href="/about"
-                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/about') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
-            >About</a>
-        </li> --}}
-        {{-- <li class="pl-4">
+                title="{{ $page->siteName }} History"
+                href="/blog/categories/history"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog/categories/history') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
+            >သမိုင်းကြောင်းများ</a>
+        </li>
+        <li class="pl-4">
             <a
-                title="{{ $page->siteName }} Contact"
-                href="/contact"
-                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/contact') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
-            >Contact</a>
-        </li> --}}
+                title="{{ $page->siteName }} Patch"
+                href="/blog/categories/patch"
+                class="block mt-0 mb-4 text-sm no-underline {{ $page->isActive('/blog/categories/patch') ? 'active text-red-500' : 'text-gray-800 hover:text-red-500' }}"
+            >Patch များ</a>
+        </li>
     </ul>
 </nav>
