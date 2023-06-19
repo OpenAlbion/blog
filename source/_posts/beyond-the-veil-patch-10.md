@@ -28,6 +28,7 @@ Time Freeze Spell ထိထားတဲ့ enemy group က 11 sec အထိ Time
 	- The Void Spell ကိုတော့ rework ပြန်လုပ်ထားပြီး Spell သုံးလိုက်တဲ့ Area အတွင်းက CC Effect နဲ့ Debugg Effect ကိုချက်ချင်းဖယ်ရှားပေးမှာပါ။ Spell Area ထဲမှာ micro-stuns တွေမထိနိုင်ပါဘူး။
 
 ### Bows
+
 Wailing Bow ရဲ့ Demon Arrow ကထိတဲ့သူများရင် damage လဲပိုများလာမှာပါ။
 
 - Demon Arrow (Wailing Bow)
@@ -35,8 +36,7 @@ Wailing Bow ရဲ့ Demon Arrow ကထိတဲ့သူများရင် 
 
 ### Daggers
 
-Chain Slash Spell ကို small-scale battle တွေမှာပိုပြီး damage ထွက်အောင်အနည်းငယ် buff ထားပါတယ်။ Demonfang နဲ့ Bridled Fury မှာအခြား large-scale battle weapon တွေနဲ့တူအောင် Resilience Penetration ကိုလျှော့ထားပါတယ်။
-Bridled Fury မှာ Merciless Finish Spell Damage ကိုလဲအနည်းငယ်လျှော့ထားပါတယ်။
+Chain Slash Spell ကို small-scale battle တွေမှာပိုပြီး damage ထွက်အောင်အနည်းငယ် buff ထားပါတယ်။ 
 
 - Chain Slash (all Daggers)
 	- 1st Hit Damage: 90 → 110
@@ -44,12 +44,14 @@ Bridled Fury မှာ Merciless Finish Spell Damage ကိုလဲအနည်
 	- 3rd Hit Damage: 130 → 140
 	- 4th Hit Damage: 150 → 155
 
+Demonfang နဲ့ Bridled Fury မှာအခြား large-scale battle weapon တွေနဲ့တူအောင် Resilience Penetration ကိုလျှော့ထားပါတယ်။ Bridled Fury မှာ Merciless Finish Spell Damage ကိုလဲအနည်းငယ်လျှော့ထားပါတယ်။
+
 - Merciless Finish (Bridled Fury)
 	- Fixed missing AoE escalation, reduced base damage to make up for this change
 	- 0 Charge Damage: 79 → 63.2
     - 1 Charge Damage: 126 → 100.8
     - 2 Charge Damage: 189 → 151.2
-    3 Charge Damage: 250 → 200
+    - 3 Charge Damage: 250 → 200
 
 - Demonfang
 	- Resilience Penetration: 50% → 40%
