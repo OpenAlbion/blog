@@ -6,6 +6,7 @@ date: 2023-06-18
 description: အဲ့အချိန်က Albion ကို ကြောက်မက်ဖွယ်ကောင်းတဲ့ နဂါးကြီးတွေက အုပ်ချုပ်ထားတယ်။ ရက်စက်ကြမ်းကြုတ်တဲ့ နဂါးကြီးတွေရဲ့ လက်အောက်မှာ ကမ္ဘာဦးလူသားတွေက မှော်ပညာနဲ့ အသားကျလာပြီး Druid များ ဖြစ်လာကြတယ်။
 featured: true
 categories: [history]
+cover_image: https://res.cloudinary.com/pyaesoneaung/image/upload/v1687183458/openalbion/blog/history.png
 ---
 
 ## လွန်ခဲ့သော နှစ်ပေါင်း ၁၈၀၀
