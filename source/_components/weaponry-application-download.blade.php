@@ -17,7 +17,7 @@
             <img class="w-24 h-24 rounded-full" src="https://play-lh.googleusercontent.com/sr_VLszPb-mvv-sCbG1hF4SaxGhV63lc13qtDBziyZOb1utGJnpTkhTw4-JfCLY4-A=w240-h480">
             <div class="pl-4">
                 <p class="mt-4 my-0 text-2xl">OpenAlbion Weaponry</p>
-                <p class="mt-2 text-sm">OpenAlbion Weaponry ဆိုတာကတော့ Albion Online ရဲ့ weapon တွေ၊ armor တွေ၊ mount တွေအပြင် အခြား item တွေပါ တစ်နေရာထဲကနေ သက်ဆိုင်ရာ အမျိုးစားအလိုက် ကြည့်လို့ရတဲ့ application တစ်ခုပါ။</p>
+                <p class="mt-2 text-sm">An open-source application for albion online players.</p>
             </div>
         </div>
         <a href='https://play.google.com/store/apps/details?id=com.openalbion.weaponry&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
