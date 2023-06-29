@@ -85,7 +85,7 @@
             chatServer: 'https://cpfb.openalbion.com/botman',
             frameEndpoint: 'https://cpfb.openalbion.com/botman/chat',
             title: 'OpenAlbion Bot',
-            introMessage: '<strong>Hi</strong> လို့ ရိုက်ပြီး သိချင်တာ မေးနိုင်ပါတယ်',
+            introMessage: '<strong>Hi</strong> လို့ ရိုက်ပြီး သိချင်တာ မေးနိုင်ပါတယ်</br>အကူညီရယူရန် <strong>help</strong> လို့ရိုက်ပါ',
             mainColor: '#dc2626',
             bubbleBackground: '#ffffff',
             bubbleAvatarUrl: 'https://res.cloudinary.com/pyaesoneaung/image/upload/v1685124260/openalbion/favicon.png',
