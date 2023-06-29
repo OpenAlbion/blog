@@ -80,6 +80,23 @@
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
+        <script>
+        var botmanWidget = {
+            chatServer: 'https://cpfb.openalbion.com/botman',
+            frameEndpoint: 'https://cpfb.openalbion.com/botman/chat',
+            title: 'OpenAlbion Bot',
+            introMessage: '<strong>Hi</strong> လို့ ရိုက်ပြီး သိချင်တာ မေးနိုင်ပါတယ်',
+            mainColor: '#dc2626',
+            bubbleBackground: '#ffffff',
+            bubbleAvatarUrl: 'https://res.cloudinary.com/pyaesoneaung/image/upload/v1685124260/openalbion/favicon.png',
+            desktopHeight: 500,
+            desktopWidth: 420,
+            aboutLink: 'https://openalbion.com',
+            aboutText: 'Powered by OpenAlbion',
+        };
+        </script>
+        <script src='https://cdn.jsdelivr.net/npm/botman-web-widget@0/build/js/widget.js'></script>
+
         @stack('scripts')
     </body>
 </html>
